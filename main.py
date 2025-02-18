@@ -6,6 +6,6 @@ from subtract import sub ;
 subresult = sub(2,8)
 print(subresult);
 
-from subtract import sub ; 
-subresult = sub(2,8)
-print(subresult);
+from divide import divide ; 
+divresult = divide(2,8)
+print(divresult);
