@@ -1,2 +1,2 @@
-def multiply():
-    return 2 * 8
+def multiply(a,b):
+    return a*b
